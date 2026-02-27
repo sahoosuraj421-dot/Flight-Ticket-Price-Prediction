@@ -97,20 +97,7 @@ The model was trained on historical flight pricing data using both categorical a
 
 ## 👤 Author
 
-**Shubham S. Ghanwat**  
-MBA – Data Science & Business Analytics  
+** Suraj Sahoo **  
+MSC – Information Technology
 Machine Learning | Streamlit | Predictive Analytics  
 
-## 📜 License
-
-
-This project is licensed under the **Apache License, Version 2.0**.
-You may obtain a copy of the License at:
-
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an **"AS IS" BASIS**,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
