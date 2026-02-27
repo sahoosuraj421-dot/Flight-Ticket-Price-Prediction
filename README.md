@@ -2,9 +2,6 @@
 
 A **Machine Learning–powered Streamlit web application** that predicts **domestic flight ticket prices in India** based on airline, route, travel dates, duration, class, stops, and time of travel.
 
-🔗 **Live App:**  
-https://ticket-prediction-mrbtyekmakupnorweqlkc8.streamlit.app/
-
 ---
 
 ## 📌 Project Overview
